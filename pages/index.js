@@ -1,4 +1,5 @@
 import { server } from '../config'
+import Layout from '../components/Layout'
 import ArticleList from '../components/ArticleList'
 
 export default function Home({ articles }) {
